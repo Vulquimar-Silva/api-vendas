@@ -1,8 +1,8 @@
 ## API Restful de vendas
 
-![ref]
+```
  Node.js, ExpressJS, Typescript, TypeORM, Postgres e Redis
-
+```
 ---
 
 <p>
