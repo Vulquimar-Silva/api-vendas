@@ -1,7 +1,7 @@
 ## API Restful de vendas
 
 
-+ Node.js, ExpressJS, Typescript, TypeORM, Postgres e Redis
+### Tecnologias: Node.js, ExpressJS, Typescript, TypeORM, Postgres e Redis
 
 ---
 
