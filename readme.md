@@ -1,8 +1,6 @@
 ## API Restful de vendas
 
-``` markdown
-Node.js, ExpressJS, Typescript, TypeORM, Postgres e Redis
-```
+>> Node.js, ExpressJS, Typescript, TypeORM, Postgres e Redis
 
 ---
 
